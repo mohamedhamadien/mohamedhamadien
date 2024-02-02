@@ -2,7 +2,7 @@
 - 👀 I’m interested in web devolpment 
 - 🌱 I’m currently learning c# and asp.net core
 - 💞️ I’m looking to collaborate on creating web pages using asp.net core
-- 📫 How to reach me Twitter: https://twitter.com/mhamadeen1
+- 📫 How to reach me Email: mohamedhmdeen@gmail.com
 
 <!---
 mohamedhamadien/mohamedhamadien is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

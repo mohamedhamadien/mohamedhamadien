@@ -1,10 +1,23 @@
-- 👋 Hi, I’m @mohamedhamadien
-- 👀 I’m interested in web devolpment 
-- 🌱 I’m currently learning c# and asp.net core
-- 💞️ I’m looking to collaborate on creating web pages using asp.net core
-- 📫 How to reach me Email: mohamedhmdeen@gmail.com
+# 👋 Hi, I'm Mohamed Hamdeen
 
-<!---
-mohamedhamadien/mohamedhamadien is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 **Full Stack .NET Developer** passionate about building scalable and maintainable web applications.
+
+* 🔭 Currently working with **C#, ASP.NET Core, Web API, Angular, and SQL Server**
+* 🌱 Continuously learning **Microservices, Docker, and Kubernetes**
+* 🏗️ Interested in **Clean Architecture, CQRS, SOLID, and scalable system design**
+* 🚀 Building projects to improve my experience with **Docker, Kubernetes, and Microservices**
+* 🤝 Open to collaborating on **.NET and Angular projects**
+* 📫 Reach me at **[mohamedhmdeen@gmail.com](mailto:mohamedhmdeen@gmail.com)**
+
+### 🛠️ Technologies
+
+**Backend:** C#, ASP.NET Core, ASP.NET MVC, Web API, Entity Framework Core, LINQ
+**Frontend:** Angular, TypeScript, JavaScript, HTML, CSS, Bootstrap
+**Database:** SQL Server
+**Architecture:** Clean Architecture, CQRS, MediatR, SOLID, REST APIs
+**DevOps & Cloud:** Docker, Kubernetes, Azure DevOps
+**Other:** Redis, Microservices
+
+---
+
+⭐ Feel free to explore my repositories and connect with me!
